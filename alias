@@ -1,11 +1,11 @@
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/1"} 1
-ifAlias{ifAlias="server",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/10"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/2"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/3"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/4"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/5"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/6"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/7"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/8"} 1
-ifAlias{ifAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/9"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/1"} 1
+ifTrueAlias{ifTrueAlias="server",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/10"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/2"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/3"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/4"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/5"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/6"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/7"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/8"} 1
+ifTrueAlias{ifTrueAlias="",instance="sw_balkon_dl.nagaev.biz",ifName="Slot0/9"} 1
 sysDescr{sysDescr="RouterOS RB941-2nD"} 1
